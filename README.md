@@ -1,5 +1,5 @@
-# SHOPSMART
-ShopSmart is an ecommerce application which solves the need of buyers and sellers exchanging
+# BIDDIES APPAREL
+Biddie's Apparel is an ecommerce application which solves the need of buyers and sellers exchanging
 money for goods with a safe auhentication and secure payment system.
 
 ## TECHNOLOGIES USED:
@@ -44,7 +44,5 @@ $ npm start
 - Run http://localhost:3000/signin
 - Enter admin email and password and click signin
 
-## Support
 
-- Contact Instructor: [Basir](mailto:basir.jafarzadeh@gmail.com)
 
