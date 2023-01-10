@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/basir/mern-amazona.git"
+    "url": "git+https://github.com/Tobbie91/BiddiesApparel.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/basir/mern-amazona/issues"
+    "url": "https://github.com/Tobbie91/BiddiesApparel/issues"
   },
-  "homepage": "https://github.com/basir/mern-amazona#readme"
+  "homepage": "https://github.com/Tobbie91/BiddiesApparel#readme"
 }
